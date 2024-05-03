@@ -1,1 +1,39 @@
-dsasdsadsas
+Script.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My GIF Website</title>
+  <!-- Add Google Fonts link for Lato -->
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+  <!-- Add your custom styles here -->
+  <style>
+    body {
+      font-family: 'Lato', sans-serif; /* Set Lato as the default font */
+    }
+    .container {
+      width: 400px; /* Set the width of the container */
+      border: 2px solid black; /* Add a border */
+      padding: 30px 40px; /* Shrink padding on top and bottom, keep distance on left and right */
+      overflow: hidden; /* Prevent text from overflowing outside the border */
+      background-color: lightblue; /* Fill the container with light blue color */
+    }
+    h1 {
+      font-size: 42px; /* Example of changing font size */
+    }
+    h2 {
+      font-size: 18px; /* Example of changing font size */
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Spinning Obama, Baby!!!</h1>
+    <img src="/home/lixi/Desktop/thingy spin/cc1.gif" alt="My GIF">
+    <h2>Uh... I have a lot of time ok? Don't question it :D By the way, inspired by Deetya's Spinning Obama too.</h2>
+  </div>
+</body>
+</html>
+
